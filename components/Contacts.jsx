@@ -9,6 +9,7 @@ const Contacts = ({ name, src, status }) => {
         height={40}
         width={40}
         className="rounded-full cursor-pointer"
+        alt=""
       />
       <p className="hidden sm:inline-flex text-sm">{name}</p>
       {status === "online" && (

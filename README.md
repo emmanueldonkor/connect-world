@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshots
 
-![](./s21.png)
+![](./s2.png)
 <![](./s1.png)
 
 
